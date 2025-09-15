@@ -10,6 +10,7 @@ baseurl: "/jekyll-example" # the subpath of your site, e.g. /repositoryname
 remote_theme: mmistakes/minimal-mistakes@4.27.3
 minimal_mistakes_skin: air
 
+
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
