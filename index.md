@@ -7,7 +7,7 @@ header:
     actions:
         - label: "Learn More"
           url: /about
-    overlay_filter : rgba(92, 50, 168, 0.5)
+    overlay_filter :rgba(92, 50, 168, 0.5)
 
 ---
 
