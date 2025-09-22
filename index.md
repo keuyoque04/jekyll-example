@@ -3,7 +3,7 @@ layout: home
 title: Welcome Home!
 excerpt: This is a test excerpt
 header: 
-    overlay_image: /assets/images/space.jpg
+    overlay_image: /assets/images/hogwarts.jpg
     actions:
         - label: "Learn More"
           url: /about
