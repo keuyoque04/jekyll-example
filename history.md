@@ -1,7 +1,6 @@
 ---
 title: History
 layout: single
-permalink: /history/
 ---
 
 The Hogwarts School of Witchcraft and Wizardry has stood for over a thousand years. 
