@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Welcome Home!
-excerpt: This is a test excerpt
+title: Welcome to Hogwarts!
+excerpt: View Everything About Hogwarts Here
 header: 
     overlay_image: /assets/images/hogwarts.jpg
     actions:
@@ -11,4 +11,4 @@ header:
 
 ---
 
-# This is my home page
+# Home Page
